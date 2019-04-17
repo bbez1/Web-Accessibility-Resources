@@ -1,4 +1,4 @@
-# Web-Accessibility-Resources
+# Web Accessibility Resources
 This is a collection of resources I have found helpful while learning Web Accessibility
 
 ## Navigation
